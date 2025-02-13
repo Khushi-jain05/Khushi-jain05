@@ -17,5 +17,5 @@
     
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-jain05&show_icons=true&locale=en&layout=compact" alt="khushi-jain05" /></p>
     
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-jain05&" alt="khushi-jain05" /></p>
+
  
